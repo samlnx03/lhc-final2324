@@ -14,7 +14,7 @@ cd $dir
 
 #generar el examen en el directorio de trabajo
 #desde este mismo archivo del directorio padre
-grep ^#P ../$this_file | sed 's/^#P//g' > $examen
+#grep ^#P ../$this_file | sed 's/^#P//g' > $examen
 
 mkdir d01
 mkdir d02; touch d02/a02.txt; touch d02/{b..d}{011..015}.{txt,png}
