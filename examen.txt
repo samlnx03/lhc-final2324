@@ -1,0 +1,38 @@
+INSTRUCCIONES
+cheque bien su directorio personal (comando pwd)
+todas las respuestas se deben colocar en subdirectorios del directorio llamado final (que ya existe)
+todas las preguntas valen un punto, excepto de la 14 en adelante que valen 2
+lea cuidadosamente las preguntas y haga lo solicitado
+NO ES NECESARIO RESPONDER EN ESTE ARCHIVO
+
+01 crear un directorio d01d dentro del directorio d01
+
+02 eliminar el archivo a02.txt del directorio d02
+
+03 eliminar el directorio d031 del directorio d03
+
+04 eliminar todos los archivos con extension png del directortio d04
+
+05 eliminar el directorio d05 y todo su contenido
+
+06 cambiarle el nombre al archivo info6.txt a INFO6.txt en el directorio d06
+
+07 cambiar el lugar de ubicacion del archivo a07.txt del directorio d07 al directorio d07n que esta dentro de d07
+
+08 del directorio d08 copiar el archivo a08.txt y dejar la copia en el mismo directorio con nombre a08n.txt
+
+09 copiar el archivo a09.txt del directorio d09a al directorio d09, d09a esta dentro de d09
+
+10 copiar todos los archivos con extension pdf del directorio d101 al directorio d102, ambos directorios estan dentro de d10
+
+11 descomprimir y extraer el archivo tar.gz del directorio d11
+
+12 archivar y comprimir (con el algoritmo adecuado) el directorio d12d y todo su contenido, el archivo destino se debe llamar p12.tgz y debe quedar en el directorio d12
+
+13 poner permiso de escritura para el dueño, grupo y otros al archivo a13.sh del directorio d13
+
+14 en el directorio d14 crear un directorio para cada dominio de correo electronico (lo que esta despues de la arroba @) del archivo finaldata.txt que esta en /home/sperez
+
+15 A partir del archivo finaldata.txt que esta en /home/sperez, crear en el directorio d15 un archivo de texto con 3 columnas, nombre, apellido y correo de las mujeres. El archivo se debe llamar mujeres.txt
+
+16 hay un programa que se ejecuta tecleando /home/sperez/a.out este programa genera 1000 numeros aleatorios entre 0 y 999, guarde en un archivo r16.txt del directorio d16 los numeros que generados entre 300 y 700
