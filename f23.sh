@@ -1,6 +1,6 @@
 #!/bin/bash
 
-dir="final"  # directorio para el escenario del examen 
+dir="."  # directorio para el escenario del examen 
 this_file="final.txt"  #nombre de este archivo, para extraer scripts y examen
 examen="examen.txt"	#archivo a generar con instrucciones para el alumno
 #script para crear el escenario practico y archivo de examen
@@ -9,7 +9,7 @@ examen="examen.txt"	#archivo a generar con instrucciones para el alumno
 # 	bash 5copiarEscenario.sh <dir> | sudo bash
 #
 
-mkdir $dir
+#mkdir $dir
 cd $dir
 
 #generar el examen en el directorio de trabajo
