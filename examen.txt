@@ -35,4 +35,4 @@ NO ES NECESARIO RESPONDER EN ESTE ARCHIVO
 
 15 A partir del archivo finaldata.txt crear en el directorio d15 un archivo de texto con 3 columnas, nombre, apellido y correo de las mujeres. El archivo se debe llamar mujeres.txt
 
-16 hay un programa que se ejecuta tecleando a.out este programa genera 1000 numeros aleatorios entre 0 y 999, guarde en un archivo r16.txt del directorio d16 los numeros generados que esten entre 300 y 700
+16 hay un archivo llamado lhcnums.txt con 1000 numeros aleatorios entre 0 y 999, guarde en un archivo r16.txt del directorio d16 los numeros que esten entre 300 y 700
