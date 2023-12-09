@@ -1,6 +1,6 @@
 INSTRUCCIONES
 cheque bien su directorio personal (comando pwd)
-todas las respuestas se deben colocar en subdirectorios del directorio llamado final (que ya existe)
+todas las respuestas se deben colocar en subdirectorios del directorio llamado lhc-final2324 (que ya existe)
 todas las preguntas valen un punto, excepto de la 14 en adelante que valen 2
 lea cuidadosamente las preguntas y haga lo solicitado
 NO ES NECESARIO RESPONDER EN ESTE ARCHIVO
@@ -31,8 +31,8 @@ NO ES NECESARIO RESPONDER EN ESTE ARCHIVO
 
 13 poner permiso de escritura para el dueño, grupo y otros al archivo a13.sh del directorio d13
 
-14 en el directorio d14 crear un directorio para cada dominio de correo electronico (lo que esta despues de la arroba @) del archivo finaldata.txt que esta en /home/sperez
+14 en el directorio d14 crear un directorio para cada dominio de correo electronico (lo que esta despues de la arroba @) del archivo finaldata.txt
 
-15 A partir del archivo finaldata.txt que esta en /home/sperez, crear en el directorio d15 un archivo de texto con 3 columnas, nombre, apellido y correo de las mujeres. El archivo se debe llamar mujeres.txt
+15 A partir del archivo finaldata.txt crear en el directorio d15 un archivo de texto con 3 columnas, nombre, apellido y correo de las mujeres. El archivo se debe llamar mujeres.txt
 
-16 hay un programa que se ejecuta tecleando /home/sperez/a.out este programa genera 1000 numeros aleatorios entre 0 y 999, guarde en un archivo r16.txt del directorio d16 los numeros que generados entre 300 y 700
+16 hay un programa que se ejecuta tecleando a.out este programa genera 1000 numeros aleatorios entre 0 y 999, guarde en un archivo r16.txt del directorio d16 los numeros generados que esten entre 300 y 700
