@@ -5,6 +5,7 @@ this_file="final.txt"  #nombre de este archivo, para extraer scripts y examen
 examen="examen.txt"	#archivo a generar con instrucciones para el alumno
 #script para crear el escenario practico y archivo de examen
 #ejecutar con ./4ejecuta-script-esc.sh <filename.sh>
+chmod +x calificar
 #luego copiar este directorio en cada cuenta del alumno con 
 # 	bash 5copiarEscenario.sh <dir> | sudo bash
 #
